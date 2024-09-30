@@ -1,3 +1,4 @@
+// Second time submit, add Commit Message.
 import acm.graphics.*;
 import acm.program.*;
 import javax.swing.Timer;
